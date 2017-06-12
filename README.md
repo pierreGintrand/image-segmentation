@@ -6,7 +6,7 @@ Exercise 5.5 from [Computer Vision: Algorithms and Applications [Richard Szelisk
 
 Mean shift Develop a mean-shift segmentation algorithm for color images (Comaniciu
 and Meer 2002).
-1. Convert your image to L*a*b* space, or keep the original RGB colors, and augment
+1. Convert your image to L\*a\*b\* space, or keep the original RGB colors, and augment
 them with the pixel (x; y) locations.
 2. For every pixel (L; a; b; x; y), compute the weighted mean of its neighbors using either
 a unit ball (Epanechnikov kernel) or finite-radius Gaussian, or some other kernel of
