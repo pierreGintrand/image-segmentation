@@ -1,4 +1,6 @@
 #Image segmentation
+
+
 ###Computer Vision
 
 Exercise 5.5 from [Computer Vision: Algorithms and Applications [Richard Szeliski]](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf) :
